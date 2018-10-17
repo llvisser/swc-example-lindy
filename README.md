@@ -5,6 +5,7 @@ Quick Markdown Overview
 
 - write bullet list with '-'
 - create **bold text** with **
+- create *italic* with *
 - include [links](https://embl.de) with [] and ()
 
 Again, I now add some example changes to my README file.
