@@ -1,0 +1,7 @@
+# This is a new file
+
+This indeed is a new file. However, it does not contain a lot information..
+
+This file is just created for practice purposes.
+
+Hope you are enjoying reading this ;)
